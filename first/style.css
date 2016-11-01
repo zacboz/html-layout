@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+
+.box-one {
+  background-color: black;
+  width: 100vw;
+  height: 200px;
+}
+
+.box-two {
+  background-color: white;
+  width: 70vw;
+  height: 1000px;
+  margin: 0 auto;
+}
+
+.box-three {
+  background-color: black;
+  width: 100vw;
+  height: 100px;
+}
