@@ -1,0 +1,35 @@
+
+
+.box {
+  width: calc(100%/3);
+  height: 100vh;
+  float: left;
+}
+
+.one {
+  background-color: #3f51b5;
+
+}
+
+.two {
+  background-color: #00bcd4;
+
+}
+
+.three {
+  background-color: #8bc34a;
+  height: 80vh;
+
+}
+
+.four {
+  background-color: red;
+  color: white;
+  width: calc(100%/3);
+  height: 20vh;
+  float: right;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
